@@ -1,0 +1,125 @@
+.colorNav{
+    background-color: rgb(250, 255, 248);
+}
+#form1{
+    width: 450px;
+}
+
+.validation{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 40px;
+}
+.centerSearch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.loginandsignup{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cart-icon{
+    margin-left: 15px;
+    text-decoration: underline;
+    
+}
+.cart-icon img{
+    cursor: pointer;
+    height: 3rem;
+    filter: invert();
+}
+
+.cartIcon:hover{
+    cursor: pointer;
+}
+
+.Active{
+    font-weight: bold;
+}
+.nav-link{
+    font-weight: 1000;
+}
+.nav-link:hover{
+    font-weight: bolder;
+}
+.login{
+    margin-right: 10px;
+}
+
+.user img{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+    height: 50px;
+    width: 50px;
+    margin-right: 12px;
+    filter: invert();
+  }
+
+.navcss{
+      margin: 0;
+      padding: 0;
+  }
+
+.logocss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.logcss{
+    height: 85px;
+    width: 118px;
+    filter: invert();
+}
+.centernav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+
+.navitem{
+    margin: 12px;
+}
+
+.centernav{
+  
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 25px;
+   
+}
+li{
+    margin-right: 70px;
+    padding: 0px;
+}
+
+li:hover{
+    cursor: pointer;
+    box-shadow: 0px 3px 3px 2px rgb(114, 114, 114);
+    border-radius: 5px;
+}
+
+.navbarcolor{
+    background-color: black;
+}
+.nav-link{
+    color: rgb(228, 222, 222);
+}
+.nav-link:hover{
+    color: white;
+
+}

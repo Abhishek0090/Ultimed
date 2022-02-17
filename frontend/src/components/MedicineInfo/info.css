@@ -1,0 +1,54 @@
+.infosection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 800px;
+}
+.sub-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 12px;
+}
+.imgsection{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.imgmed{
+    height: 300px;
+    width: 118%;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+
+}
+
+.addnbuy{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1px;
+    border: 1px solid grey;    
+    padding: 20px;
+}
+h3{
+    display: flex;
+}
+/* .buybtn{
+
+} */
+
+.quaninput{
+    display: flex;
+    align-items: center;
+    padding: 1px;
+    margin: 2px;
+}
